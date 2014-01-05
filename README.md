@@ -7,8 +7,8 @@ My name is Adonis K. and I am a Web Developer from Greece that specializes in Fr
 ## Title(s)
 
 * Front-End Web Developer
-* Digital Artist
 * Junior Software Engineer
+* Digital Artist
 
 ## Skills & Expertise
 
