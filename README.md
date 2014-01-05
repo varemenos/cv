@@ -47,11 +47,11 @@ Front-End Web Developer, Digital Artist, Junior Software Engineer
 
 ## Experience
 
-### Senior Web Developer and Maintainer codemagic.gr
+### Senior Web Developer and Maintainer at codemagic.gr
 
 #### February 2013 - Present
 
-Front and back end development for the website [codemagic.gr](http://codemagic.gr). It's an open source & powerful online playground similar to codepen, cssdeck and others.
+Front and back end development for the website [codemagic.gr](http://codemagic.gr). It's an open source and powerful online playground similar to codepen, cssdeck and others.
 
 [site](http://codemagic.gr)
 [source](https://github.com/varemenos/codemagic)
