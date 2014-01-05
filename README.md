@@ -101,14 +101,19 @@ Blogger at aklp.gr and web developer at [projects.aklp.gr](http://projects.aklp.
 
 ## Education
 
-### asd
-### asas
+### TODO
 
 ## Languages
 
 * Greek (Native)
-* English ()
+* English (Proficient)
+
+### TODO
 
 ## Personal Details
 
+### TODO
+
 ## Prologue
+
+### TODO
