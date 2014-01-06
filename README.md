@@ -1,5 +1,23 @@
 # Adonis K. - Resume
 
+
+## Table of Contents
+
+* [Preface](#preface)
+* [Title](#titles)
+* [Skills & Experience](#skills--expertise)
+  * [Me](#me)
+  * [Web Technologies](#web-technologies)
+  * [other](#other)
+* [Links](#links)
+* [Experience](#experience)
+* [Education](#education)
+* [Languages](#languages)
+* [Personal Details](#personal-details)
+* [Prologue](#prologue)
+
+---
+
 ## Preface
 
 My name is Adonis K. and I am a Web Developer from Greece that specializes in Front-end Web Development. I also do work for the Back-end but my love lies in the first half of the stack. The tools of trade I use consist of a text editor (Sublime Text 3), a Linux Distro (usually Ubuntu or Fedora), a terminal, various CLI tools, FTP, SSH, Adobe Photoshop and many more. In my free time, I usually fiddle around with (S)CSS and JavaScript in codepen and codemagic, I also author posts at my blog (aklp.gr) or work on a new and exciting open source side-project. Once in a while I do consulting and debugging for other fellow developers who ask for my assistance. In the past I did a lot of digital art work using tools like Adobe Photoshop, Adobe Illustrator, Adobe After Effects and Cinema4D.
