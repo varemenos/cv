@@ -177,9 +177,9 @@ Programming, Introduction to Software Engineering, Computer Hardware, Network En
 
 ## Personal Details
 
-Full Name: Kakoulidis Adonis
-Current Location: Thessaloniki, Greece
-Date of Birth: 23/02/1989
+Full Name: Kakoulidis Adonis   
+Current Location: Thessaloniki, Greece   
+Date of Birth: 23/02/1989   
 
 ## Prologue
 
