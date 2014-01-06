@@ -106,7 +106,7 @@ Blogger at aklp.gr and web developer at [projects.aklp.gr](http://projects.aklp.
 
 ### Freelance work
 
-#### 2008 - 2014
+#### 2008 - Present
 
 Occasionally I also do some freelance work.
 
