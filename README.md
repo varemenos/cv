@@ -106,7 +106,63 @@ Blogger at aklp.gr and web developer at [projects.aklp.gr](http://projects.aklp.
 
 ## Education
 
-### TODO
+### 2009 – 2013
+
+#### Bachelor of Computer Science
+
+Software Engineering at the Technological Educational Institute of Central Greece
+
+#### Courses:
+
+* Linear Algebra (A1)
+* Maths I (A2)
+* Electronic Physics (A3)
+* Physics (A4)
+* Programming | (C) (A5)
+* Introduction to Computer Systems (A6)
+* Maths || (B1)
+* Discrete Maths (B2)
+* Computer Architecture | (B3)
+* Programming || (Java) (B4)
+* Digital Systems | (B5)
+* Data Structures (C) (B6)
+* Computer Architecture || (C1)
+* Probability, Statistics (C2)
+* English Computer Terminology (C3)
+* Digital Systems || (C4)
+* Creation and Analysis of Algorithms (C5)
+* Programming ||| (Java) (C6)
+* Operating Systems (D1)
+* Linear systems, Linear transformations (D2)
+* Databases (D3)
+* Data Networks | (D4)
+* Introduction to Philosophy (D5)
+* Business Research (D6)
+* Artificial Inteligence (E1)
+* Micro-Controllers, Micro-Processors (E2)
+* Software Engineering (E3)
+* Digital Signal Processing (E4)
+* Data Networks || (E5)
+* Distributed Systems (F1)
+* Security and Data Protection (F2)
+* Telecommunications (F3)
+* Automatic Control Systems (A.C.S.) (F4)
+* Large Scale Integrated Circuits (F6)
+* Computer network designing (G1)
+* E-Commerce and Web Technologies (G2)
+* Digital Image Processing (G3)
+* Special Topics of Distributed Systems (G4)
+* Information Systems (G5)
+
+### 2005 – 2008
+
+#### Computer Science Highschool
+
+Democritus Technological Highschool of Thessaloniki, Greece.
+
+#### Courses:
+
+Programming, Introduction to Software Engineering, Computer Hardware, Network Engineering, Network Management and more
 
 ## Languages
 
