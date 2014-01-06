@@ -1,14 +1,10 @@
 # Adonis K. - Resume
 
-
 ## Table of Contents
 
 * [Preface](#preface)
 * [Title](#titles)
 * [Skills & Experience](#skills--expertise)
-  * [Me](#me)
-  * [Web Technologies](#web-technologies)
-  * [other](#other)
 * [Links](#links)
 * [Experience](#experience)
 * [Education](#education)
