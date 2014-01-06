@@ -104,6 +104,12 @@ Blogger at aklp.gr and web developer at [projects.aklp.gr](http://projects.aklp.
 
 [[site]](http://www.onibakubanzai.com/), [[forum]](http://forum.onibakubanzai.com/)
 
+### Freelance work
+
+#### 2008 - 2014
+
+Occasionally I also do some freelance work.
+
 ## Education
 
 ### 2009 – 2013
@@ -169,11 +175,11 @@ Programming, Introduction to Software Engineering, Computer Hardware, Network En
 * Greek (Native)
 * English (Proficient)
 
-### TODO
-
 ## Personal Details
 
-### TODO
+Full Name: Kakoulidis Adonis
+Current Location: Thessaloniki, Greece
+Date of Birth: 23/02/1989
 
 ## Prologue
 
