@@ -90,7 +90,7 @@ veRepo is an open source SASS library of modules and mixins for robust and maint
 
 #### 2010 - Present
 
-Blogger at aklp.gr and web developer at [projects.aklp.gr](http://projects.aklp.gr) (soon to be moved in the following location [adonisk.com/tools](http://adonisk.com/tools)
+Blogger at aklp.gr and web developer at [projects.aklp.gr](http://projects.aklp.gr) (soon to be moved in the following location [adonisk.com/tools](http://adonisk.com/tools))
 
 [[blog]](http://aklp.gr), [[blog theme source]](https://github.com/varemenos/aklpgr-dropplets-template), [[blog post source]](https://github.com/varemenos/aklpgr-blog-posts)
 
@@ -176,6 +176,6 @@ Programming, Introduction to Software Engineering, Computer Hardware, Network En
 
 ## Personal Details
 
-Full Name: Kakoulidis Adonis   
-Current Location: Thessaloniki, Greece   
+Full Name: Kakoulidis Adonis
+Current Location: Thessaloniki, Greece
 Date of Birth: 23/02/1989
