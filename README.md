@@ -66,15 +66,13 @@ My name is Adonis K. and I am a Web Developer from Greece that specializes in Fr
 
 FOSSCOMM is the most popular FOSS (free and open source software) conference in Greece. It has been hosted in various cities around Greece and its goal is to promote the use of FOSS in Greece and of course to bring FOSS enthusiasts together.
 
-[[site]](http://codemagic.gr), [[source]](https://github.com/varemenos/codemagic)
-
 ### Senior Web Developer and Maintainer at codemagic.gr
 
 #### February 2013 - Present
 
 Front and back end development for the website [codemagic.gr](http://codemagic.gr). It's an open source and powerful online playground similar to codepen, cssdeck and others.
 
-[[site]](http://codemagic.gr), [[source]](https://github.com/varemenos/codemagic)
+[[site]](http://fosscomm.gr), [[source]](https://github.com/varemenos/codemagic)
 
 ### Senior Web Developer and Maintainer for verepo
 
