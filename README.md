@@ -60,6 +60,14 @@ My name is Adonis K. and I am a Web Developer from Greece that specializes in Fr
 
 ## Experience
 
+### Front-end Web Developer at FOSSCOMM 2014
+
+#### February 2014 - May 2014
+
+FOSSCOMM is the most popular FOSS (free and open source software) conference in Greece. It has been hosted in various cities around Greece and its goal is to promote the use of FOSS in Greece and of course to bring FOSS enthusiasts together.
+
+[[site]](http://codemagic.gr), [[source]](https://github.com/varemenos/codemagic)
+
 ### Senior Web Developer and Maintainer at codemagic.gr
 
 #### February 2013 - Present
@@ -176,6 +184,6 @@ Programming, Introduction to Software Engineering, Computer Hardware, Network En
 
 ## Personal Details
 
-Full Name: Kakoulidis Adonis
-Current Location: Thessaloniki, Greece
-Date of Birth: 23/02/1989
+Full Name: Kakoulidis Adonis   
+Current Location: Thessaloniki, Greece   
+Date of Birth: 23/02/1989   
